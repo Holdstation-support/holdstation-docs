@@ -1,72 +1,204 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Mintlify Starter Kit",
+  "name": "Holdstation Docs",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#111111"
   },
-  "favicon": "/favicon.svg",
   "navigation": {
-    "pages": [
+    "groups": [
       {
-        "group": "Getting Started",
+        "group": "Home",
         "pages": [
-          "index",
-          "quickstart"
+          "index"
+        ]
+      },
+      {
+        "group": "Overview",
+        "pages": [
+          "overview/introduction/README",
+          "overview/introduction/achievements",
+          "overview/introduction/future-direction",
+          "overview/introduction/product-suite",
+          "overview/introduction/chain-support",
+          "overview/introduction/team",
+          "overview/introduction/roadmap",
+          "overview/introduction/audit",
+          "overview/referral-program/README",
+          "overview/referral-program/gold",
+          "overview/referral-program/usdc-reward",
+          "overview/referral-program/how-it-work",
+          "overview/link"
+        ]
+      },
+      {
+        "group": "Product Fit Community",
+        "pages": [
+          "product-fit-community/what-is-product-fit-community",
+          "product-fit-community/why-product-fit-community",
+          "product-fit-community/the-unique-cultures-of-blockchain-communities",
+          "product-fit-community/holdstations-community-focus",
+          "product-fit-community/holdstation-across-ecosystems"
+        ]
+      },
+      {
+        "group": "Holdstation DeFutures",
+        "pages": [
+          "holdstation-defutures/holdstation-defutures",
+          "holdstation-defutures/ai-matching-pool",
+          "holdstation-defutures/architecture/README",
+          "holdstation-defutures/architecture/dynamic-price-feed-dpf",
+          "holdstation-defutures/architecture/flexible-market-making-fmm",
+          "holdstation-defutures/seamless-trading",
+          "holdstation-defutures/leverage",
+          "holdstation-defutures/margin-requirement",
+          "holdstation-defutures/liquidation",
+          "holdstation-defutures/defuture-fees/README",
+          "holdstation-defutures/defuture-fees/commodities-and-stocks",
+          "holdstation-defutures/defuture-fees/hsusd1-vault",
+          "holdstation-defutures/holdstation-defutures-keyless-trading-integration/README",
+          "holdstation-defutures/holdstation-defutures-keyless-trading-integration/introduction",
+          "holdstation-defutures/holdstation-defutures-keyless-trading-integration/integration-guides",
+          "ai-communication"
+        ]
+      },
+      {
+        "group": "Holdstation Pay",
+        "pages": [
+          "holdstation-pay/what-is-holdstation-pay",
+          "holdstation-pay/end-user-tutorial",
+          "holdstation-pay/partner-intergration",
+          "holdstation-pay/merchant-terms-and-conditions",
+          "holdstation-pay/faq",
+          "holdstation-pay/term-of-use",
+          "holdstation-pay/aml-policy",
+          "holdstation-pay/privacy-policy"
+        ]
+      },
+      {
+        "group": "Holdstation Launchpad",
+        "pages": [
+          "holdstation-launchpad/what-is-holdstation-launchpad",
+          "holdstation-launchpad/how-does-the-fair-subscription-model-work",
+          "holdstation-launchpad/affiliate-reward"
+        ]
+      },
+      {
+        "group": "Holdstation DEX Aggregator",
+        "pages": [
+          "holdstation-dex-aggregator/holdstation-dex-aggregator",
+          "holdstation-dex-aggregator/what-is-holdstation-dex",
+          "holdstation-dex-aggregator/how-to-integrate",
+          "holdstation-dex-aggregator/liquidity-sources",
+          "holdstation-dex-aggregator/fee-structures"
+        ]
+      },
+      {
+        "group": "Holdstation on World Chain",
+        "pages": [
+          "holdstation-on-world-chain/why-world-chain",
+          "holdstation-on-world-chain/smart-wallet-for-real-human",
+          "holdstation-on-world-chain/aion",
+          "holdstation-on-world-chain/eggs-vault-gamified-rewards",
+          "holdstation-on-world-chain/swipepad",
+          "holdstation-on-world-chain/dalgona"
+        ]
+      },
+      {
+        "group": "Holdstation on BNB ",
+        "pages": [
+          "holdstation-on-bnb/why-bnb-chain",
+          "holdstation-on-bnb/smart-wallet-for-trading"
+        ]
+      },
+      {
+        "group": "🐻 Berachain's HONEY Hub",
+        "pages": [
+          "berachains-honey-hub/why-berachain",
+          "berachains-honey-hub/defai-smart-wallet",
+          "berachains-honey-hub/trading-smart-wallet/README",
+          "berachains-honey-hub/trading-smart-wallet/fusion-with-zksync-era",
+          "berachains-honey-hub/trading-smart-wallet/account-abstraction",
+          "berachains-honey-hub/trading-smart-wallet/paymaster",
+          "berachains-honey-hub/berais.land",
+          "berachains-honey-hub/holdstation-chest",
+          "berachains-honey-hub/holdstation-foundation/README",
+          "berachains-honey-hub/holdstation-foundation/dao-structure",
+          "berachains-honey-hub/holdstation-foundation/how-to-be-qualified"
+        ]
+      },
+      {
+        "group": "Holdstation on Solana ",
+        "pages": [
+          "holdstation-on-solana/why-solana",
+          "holdstation-on-solana/smart-wallet-for-ai-trading"
+        ]
+      },
+      {
+        "group": "ZKsync's Epicenter",
+        "pages": [
+          "zksyncs-epicenter/defutures",
+          "zksyncs-epicenter/zkstarter",
+          "zksyncs-epicenter/a-i-gentfi",
+          "zksyncs-epicenter/holdstation-swap",
+          "zksyncs-epicenter/holdstation-prediction-market",
+          "zksyncs-epicenter/the-honey-hub-of-berachain",
+          "zksyncs-epicenter/holdstation-research",
+          "zksyncs-epicenter/holdstation-club-soon-reveal"
+        ]
+      },
+      {
+        "group": "Token",
+        "pages": [
+          "token/token-overview/README",
+          "token/token-overview/tokenomics",
+          "token/token-overview/token-utility",
+          "token/token-overview/token-migration",
+          "token/token-overview/sustainable-expansion",
+          "token/early-adopter-program-ended/README",
+          "token/early-adopter-program-ended/vault-credit",
+          "token/early-adopter-program-ended/loyalty-program",
+          "token/contract-address",
+          "token/multisig-wallet",
+          "token/holdstation-public-sales-ended"
+        ]
+      },
+      {
+        "group": "User Guide",
+        "pages": [
+          "user-guide/spot-trading",
+          "user-guide/trading",
+          "user-guide/bridging",
+          "user-guide/vault",
+          "user-guide/hold-staking"
+        ]
+      },
+      {
+        "group": "Integration",
+        "pages": [
+          "integration/holdstation-gas-station",
+          "integration/holdstation-worldchain-sdk/README",
+          "integration/holdstation-worldchain-sdk/tokens-and-balances",
+          "integration/holdstation-worldchain-sdk/send",
+          "integration/holdstation-worldchain-sdk/swap",
+          "integration/holdstation-worldchain-sdk/widget",
+          "integration/holdstation-worldchain-sdk/history"
+        ]
+      },
+      {
+        "group": "Disclaimer",
+        "pages": [
+          "disclaimer/disclaimer",
+          "disclaimer/terms-of-service",
+          "points-system"
+        ]
+      },
+      {
+        "group": "Micar Whitepaper",
+        "pages": [
+          "micar-white-paper/micar-whitepaper"
         ]
       }
-    ],
-    "global": {
-      "anchors": [
-        {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
-          "icon": "book-open-cover"
-        },
-        {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
-          "icon": "newspaper"
-        }
-      ]
-    }
-  },
-  "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
-  },
-  "navbar": {
-    "links": [
-      {
-        "label": "Support",
-        "href": "mailto:hi@mintlify.com"
-      }
-    ],
-    "primary": {
-      "type": "button",
-      "label": "Dashboard",
-      "href": "https://app.mintlify.com"
-    }
-  },
-  "contextual": {
-    "options": [
-      "copy",
-      "view",
-      "chatgpt",
-      "claude",
-      "perplexity",
-      "mcp",
-      "cursor",
-      "vscode"
     ]
-  },
-  "footer": {
-    "socials": {
-      "x": "https://x.com/mintlify",
-      "github": "https://github.com/mintlify",
-      "linkedin": "https://linkedin.com/company/mintlify"
-    }
   }
 }
