@@ -1,4 +1,7 @@
-# 👋 Introduction
+---
+title: "👋 Introduction"
+sidebarTitle: "👋 Introduction"
+---
 
 Holdstation **Seamless Mode (Keyless Trading)** allows your users to open/close/update trading positions **without signing every on-chain trade transaction**.
 

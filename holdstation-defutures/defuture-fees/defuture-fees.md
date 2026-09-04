@@ -1,4 +1,7 @@
-# 💲 DeFuture Fees
+---
+title: "💲 DeFuture Fees"
+sidebarTitle: "💲 DeFuture Fees"
+---
 
 Holdstation optimizes liquidity provider efficiency through balanced long-short positioning. The trading fee structure plays a key role in supporting this balance.
 

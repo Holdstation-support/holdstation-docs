@@ -1,4 +1,7 @@
-# ⚡ Seamless Trading
+---
+title: "⚡ Seamless Trading"
+sidebarTitle: "⚡ Seamless Trading"
+---
 
 At **Holdstation DeFutures**, our mission is to combine the **speed and simplicity of centralized exchanges (CEXs)** with the **security and decentralization of DeFi**.
 

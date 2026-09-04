@@ -1,8 +1,13 @@
 ---
+title: "💹 Commodities & Stocks"
+sidebarTitle: "💹 Commodities & Stocks"
+---
+
+---
 description: Cheap enough?
 ---
 
-# 💹 Commodities & Stocks
+
 
 Holdstation provides a transparent fee structure for commodities and stock trading.\
 All fees are based on a **Maker / Taker percentage model**, with no hidden charges.

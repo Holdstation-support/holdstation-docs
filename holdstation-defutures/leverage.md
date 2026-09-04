@@ -1,4 +1,7 @@
-# 🔌 Leverage
+---
+title: "🔌 Leverage"
+sidebarTitle: "🔌 Leverage"
+---
 
 Holdstation delivers round-the-clock trading for crypto and US stock markets, empowering you to trade anytime. Our limit order feature lets you set a target price with confidence, triggering even during market volatility for added security. Leverage up to 100x is available for traders seeking to maximize profits, while support for top tokens like BTC, ETH, BNB, and US stocks ensures a diverse asset portfolio.
 

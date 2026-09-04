@@ -1,4 +1,7 @@
-# 🛠️ Integration Guides
+---
+title: "🛠️ Integration Guides"
+sidebarTitle: "🛠️ Integration Guides"
+---
 
 ### 1. Technical Flow & Diagrams
 

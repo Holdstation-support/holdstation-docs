@@ -1,4 +1,7 @@
-# 💹 Flexible Market Making (FMM)
+---
+title: "💹 Flexible Market Making (FMM)"
+sidebarTitle: "💹 Flexible Market Making (FMM)"
+---
 
 Holdstation DeFutures Flexible Market Making (FMM) model, **inspired by Dodo Proactive Market Making Model.** Unlike traditional models, Holdstation FMM applies **funding fees in blocks** across **all assets**—including **perpetual futures for crypto, commodities, forex, and more**.
 

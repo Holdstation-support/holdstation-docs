@@ -1,4 +1,7 @@
-# 🧲 Margin Requirement
+---
+title: "🧲 Margin Requirement"
+sidebarTitle: "🧲 Margin Requirement"
+---
 
 At Holdstation DeFutures, safety and responsible trading are paramount. Our margin system ensures a secure environment with the following features:
 

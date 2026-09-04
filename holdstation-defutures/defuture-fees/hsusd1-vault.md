@@ -1,4 +1,7 @@
-# 🏧 hsUSD1 Vault
+---
+title: "🏧 hsUSD1 Vault"
+sidebarTitle: "🏧 hsUSD1 Vault"
+---
 
 hsUSD1 is a yield-bearing stablecoin crafted for the Holdstation ecosystem, enhancing user returns with automatic compounding of trading fees. This drives gradual value growth over standard USD1, offering passive income opportunities.
 

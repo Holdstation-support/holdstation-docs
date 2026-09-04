@@ -1,139 +1,177 @@
 {
-  "$schema": "https://mintlify.com/docs.json",
-  "theme": "mint",
-  "name": "Holdstation Docs",
-  "colors": {
-    "primary": "#111111"
-  },
-  "navigation": {
-    "groups": [
-      {
-        "group": "Home",
-        "pages": [
-          "index"
-        ]
-      },
-      {
-        "group": "Overview",
-        "pages": [
-          {
-            "group": "Introduction",
-            "pages": [
-              "overview/introduction/README",
-              "overview/introduction/achievements",
-              "overview/introduction/future-direction",
-              "overview/introduction/product-suite",
-              "overview/introduction/chain-support",
-              "overview/introduction/team",
-              "overview/introduction/roadmap",
-              "overview/introduction/audit"
-            ]
-          },
-          "overview/link"
-        ]
-      },
-      {
-        "group": "Product Fit Community",
-        "pages": [
-          "product-fit-community/what-is-product-fit-community",
-          "product-fit-community/why-product-fit-community",
-          "product-fit-community/the-unique-cultures-of-blockchain-communities",
-          "product-fit-community/holdstations-community-focus"
-        ]
-      },
-      {
-        "group": "Holdstation Pay",
-        "pages": [
-          "holdstation-pay/what-is-holdstation-pay",
-          "holdstation-pay/end-user-tutorial",
-          "holdstation-pay/partner-intergration",
-          "holdstation-pay/merchant-terms-and-conditions",
-          "holdstation-pay/faq",
-          "holdstation-pay/term-of-use",
-          "holdstation-pay/aml-policy",
-          "holdstation-pay/privacy-policy"
-        ]
-      },
-      {
-        "group": "Holdstation DEX Aggregator",
-        "pages": [
-          "holdstation-dex-aggregator/what-is-holdstation-dex",
-          "holdstation-dex-aggregator/how-to-integrate",
-          "holdstation-dex-aggregator/liquidity-sources",
-          "holdstation-dex-aggregator/fee-structures"
-        ]
-      },
-      {
-        "group": "Holdstation on World Chain",
-        "pages": [
-          "holdstation-on-world-chain/why-world-chain",
-          "holdstation-on-world-chain/smart-wallet-for-real-human"
-        ]
-      },
-      {
-        "group": "Holdstation on BNB",
-        "pages": [
-          "holdstation-on-bnb/why-bnb-chain"
-        ]
-      },
-      {
-        "group": "Holdstation on Solana",
-        "pages": [
-          "holdstation-on-solana/why-solana"
-        ]
-      },
-      {
-        "group": "Token",
-        "pages": [
-          {
-            "group": "Token Overview",
-            "pages": [
-              "token/token-overview/README",
-              "token/token-overview/tokenomics",
-              "token/token-overview/token-utility",
-              "token/token-overview/token-migration",
-              "token/token-overview/sustainable-expansion"
-            ]
-          },
-          "token/contract-address",
-          "token/multisig-wallet"
-        ]
-      },
-      {
-        "group": "User Guide",
-        "pages": [
-          "user-guide/spot-trading"
-        ]
-      },
-      {
-        "group": "Integration",
-        "pages": [
-          {
-            "group": "Holdstation/Worldchain-SDK",
-            "pages": [
-              "integration/holdstation-worldchain-sdk/README",
-              "integration/holdstation-worldchain-sdk/tokens-and-balances",
-              "integration/holdstation-worldchain-sdk/send",
-              "integration/holdstation-worldchain-sdk/swap",
-              "integration/holdstation-worldchain-sdk/widget",
-              "integration/holdstation-worldchain-sdk/history"
-            ]
-          }
-        ]
-      },
-      {
-        "group": "Disclaimer",
-        "pages": [
-          "disclaimer/disclaimer",
-          "disclaimer/terms-of-service"
-        ]
-      },
-      {
-        "group": "MiCAR Whitepaper",
-        "pages": [
-          "micar-white-paper/micar-whitepaper"
-        ]
-      }
-    ]
-  }
+    "$schema":  "https://mintlify.com/docs.json",
+    "theme":  "mint",
+    "name":  "Holdstation Docs",
+    "colors":  {
+                   "primary":  "#111111"
+               },
+    "navigation":  {
+                       "groups":  [
+                                      {
+                                          "group":  "Home",
+                                          "pages":  [
+                                                        "index"
+                                                    ]
+                                      },
+                                      {
+                                          "group":  "Overview",
+                                          "pages":  [
+                                                        {
+                                                            "group":  "Introduction",
+                                                            "pages":  [
+                                                                          "overview/introduction/README",
+                                                                          "overview/introduction/achievements",
+                                                                          "overview/introduction/future-direction",
+                                                                          "overview/introduction/product-suite",
+                                                                          "overview/introduction/chain-support",
+                                                                          "overview/introduction/team",
+                                                                          "overview/introduction/roadmap",
+                                                                          "overview/introduction/audit"
+                                                                      ]
+                                                        },
+                                                        {
+                                                            "group":  "Referral Program",
+                                                            "pages":  [
+                                                                          "overview/referral-program/how-it-work"
+                                                                      ]
+                                                        },
+                                                        "overview/link"
+                                                    ]
+                                      },
+                                      {
+                                          "group":  "Product Fit Community",
+                                          "pages":  [
+                                                        "product-fit-community/what-is-product-fit-community",
+                                                        "product-fit-community/why-product-fit-community",
+                                                        "product-fit-community/the-unique-cultures-of-blockchain-communities",
+                                                        "product-fit-community/holdstations-community-focus"
+                                                    ]
+                                      },
+                                      {
+                                          "group":  "Holdstation DeFutures",
+                                          "pages":  [
+                                                        {
+                                                            "group":  "Architecture",
+                                                            "pages":  [
+                                                                          "holdstation-defutures/architecture/dynamic-price-feed-dpf",
+                                                                          "holdstation-defutures/architecture/flexible-market-making-fmm"
+                                                                      ]
+                                                        },
+                                                        {
+                                                            "group":  "DeFuture Fees",
+                                                            "pages":  [
+                                                                          "holdstation-defutures/defuture-fees/defuture-fees",
+                                                                          "holdstation-defutures/defuture-fees/commodities-and-stocks",
+                                                                          "holdstation-defutures/defuture-fees/hsusd1-vault"
+                                                                      ]
+                                                        },
+                                                        {
+                                                            "group":  "Keyless Trading Integration",
+                                                            "pages":  [
+                                                                          "holdstation-defutures/holdstation-defutures-keyless-trading-integration/keyless-trading-integration",
+                                                                          "holdstation-defutures/holdstation-defutures-keyless-trading-integration/introduction",
+                                                                          "holdstation-defutures/holdstation-defutures-keyless-trading-integration/integration-guides"
+                                                                      ]
+                                                        },
+                                                        "holdstation-defutures/leverage",
+                                                        "holdstation-defutures/liquidation",
+                                                        "holdstation-defutures/margin-requirement",
+                                                        "holdstation-defutures/seamless-trading"
+                                                    ]
+                                      },
+                                      {
+                                          "group":  "Holdstation Pay",
+                                          "pages":  [
+                                                        "holdstation-pay/what-is-holdstation-pay",
+                                                        "holdstation-pay/end-user-tutorial",
+                                                        "holdstation-pay/partner-intergration",
+                                                        "holdstation-pay/merchant-terms-and-conditions",
+                                                        "holdstation-pay/faq",
+                                                        "holdstation-pay/term-of-use",
+                                                        "holdstation-pay/aml-policy",
+                                                        "holdstation-pay/privacy-policy"
+                                                    ]
+                                      },
+                                      {
+                                          "group":  "Holdstation DEX Aggregator",
+                                          "pages":  [
+                                                        "holdstation-dex-aggregator/what-is-holdstation-dex",
+                                                        "holdstation-dex-aggregator/how-to-integrate",
+                                                        "holdstation-dex-aggregator/liquidity-sources",
+                                                        "holdstation-dex-aggregator/fee-structures"
+                                                    ]
+                                      },
+                                      {
+                                          "group":  "Holdstation on World Chain",
+                                          "pages":  [
+                                                        "holdstation-on-world-chain/why-world-chain",
+                                                        "holdstation-on-world-chain/smart-wallet-for-real-human"
+                                                    ]
+                                      },
+                                      {
+                                          "group":  "Holdstation on BNB",
+                                          "pages":  [
+                                                        "holdstation-on-bnb/why-bnb-chain"
+                                                    ]
+                                      },
+                                      {
+                                          "group":  "Holdstation on Solana",
+                                          "pages":  [
+                                                        "holdstation-on-solana/why-solana"
+                                                    ]
+                                      },
+                                      {
+                                          "group":  "Token",
+                                          "pages":  [
+                                                        {
+                                                            "group":  "Token Overview",
+                                                            "pages":  [
+                                                                          "token/token-overview/README",
+                                                                          "token/token-overview/tokenomics",
+                                                                          "token/token-overview/token-utility",
+                                                                          "token/token-overview/token-migration",
+                                                                          "token/token-overview/sustainable-expansion"
+                                                                      ]
+                                                        },
+                                                        "token/contract-address",
+                                                        "token/multisig-wallet"
+                                                    ]
+                                      },
+                                      {
+                                          "group":  "User Guide",
+                                          "pages":  [
+                                                        "user-guide/spot-trading"
+                                                    ]
+                                      },
+                                      {
+                                          "group":  "Integration",
+                                          "pages":  [
+                                                        {
+                                                            "group":  "Holdstation/Worldchain-SDK",
+                                                            "pages":  [
+                                                                          "integration/holdstation-worldchain-sdk/README",
+                                                                          "integration/holdstation-worldchain-sdk/tokens-and-balances",
+                                                                          "integration/holdstation-worldchain-sdk/send",
+                                                                          "integration/holdstation-worldchain-sdk/swap",
+                                                                          "integration/holdstation-worldchain-sdk/widget",
+                                                                          "integration/holdstation-worldchain-sdk/history"
+                                                                      ]
+                                                        }
+                                                    ]
+                                      },
+                                      {
+                                          "group":  "Disclaimer",
+                                          "pages":  [
+                                                        "disclaimer/disclaimer",
+                                                        "disclaimer/terms-of-service"
+                                                    ]
+                                      },
+                                      {
+                                          "group":  "MiCAR Whitepaper",
+                                          "pages":  [
+                                                        "micar-white-paper/micar-whitepaper"
+                                                    ]
+                                      }
+                                  ]
+                   }
 }

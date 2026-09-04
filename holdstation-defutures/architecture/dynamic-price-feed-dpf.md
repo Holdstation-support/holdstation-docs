@@ -1,4 +1,7 @@
-# 💡 Dynamic Price Feed (DPF)
+---
+title: "💡 Dynamic Price Feed (DPF)"
+sidebarTitle: "💡 Dynamic Price Feed (DPF)"
+---
 
 Holdstation's Dynamic Price Feed (DPF) is an essential tool that provides accurate prices for all assets traded on the platform. It uses smart data collection methods to deliver fair and trustworthy values, making trading smooth and reliable.
 
