@@ -1,8 +1,9 @@
 ---
+title: "❓ FAQ"
+sidebarTitle: "❓ FAQ"
 description: 'For Merchant & Partner (Last Updated: May 2026)'
 ---
 
-# ❓ FAQ
 
 ### User Management & Responsibility
 

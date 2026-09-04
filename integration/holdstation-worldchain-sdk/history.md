@@ -1,4 +1,7 @@
-# 📖 History
+---
+title: "📖 History"
+sidebarTitle: "📖 History"
+---
 
 The `History` class from `@holdstation/worldchain-sdk` enables fetching transaction histories (such as sends, receives, swaps) associated with a wallet on WorldChain.
 

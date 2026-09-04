@@ -1,4 +1,7 @@
-# 💱 Swap
+---
+title: "💱 Swap"
+sidebarTitle: "💱 Swap"
+---
 
 This guide demonstrates how to **fetch token data**, **quote**, and **execute token swaps** using the **Holdstation ethers-v5 SDK**.
 

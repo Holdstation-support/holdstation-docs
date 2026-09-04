@@ -1,4 +1,7 @@
-# 👥 The Unique Cultures of Blockchain Communities
+---
+title: "👥 The Unique Cultures of Blockchain Communities"
+sidebarTitle: "👥 The Unique Cultures of Blockchain Communities"
+---
 
 Each blockchain is more than just a protocol — it’s a living culture, shaped by its users, values, and behaviors. At **Holdstation**, we don’t believe in one-size-fits-all solutions. We build for **people**, not protocols. That means deeply understanding the **cultural DNA** of each chain we touch, and tailoring our products to **resonate with their unique tribes**.
 

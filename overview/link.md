@@ -1,4 +1,7 @@
-# 🔗 Link
+---
+title: "🔗 Link"
+sidebarTitle: "🔗 Link"
+---
 
 ![](../.gitbook/assets/Twitter_Banner_02 (2) (3).jpg)
 

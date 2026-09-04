@@ -1,4 +1,7 @@
-# 📋 Merchant Terms and Conditions
+---
+title: "📋 Merchant Terms and Conditions"
+sidebarTitle: "📋 Merchant Terms and Conditions"
+---
 
 _Last updated: 04th April, 2026_
 

@@ -1,4 +1,7 @@
-# 🔒 Privacy Policy
+---
+title: "🔒 Privacy Policy"
+sidebarTitle: "🔒 Privacy Policy"
+---
 
 ### Introduction
 

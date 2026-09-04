@@ -1,4 +1,7 @@
-# ⛓️ Chain Support
+---
+title: "⛓️ Chain Support"
+sidebarTitle: "⛓️ Chain Support"
+---
 
 Holdstation Wallet supports multiple EVM-based chains, allowing users to access a wide range of assets and services.
 

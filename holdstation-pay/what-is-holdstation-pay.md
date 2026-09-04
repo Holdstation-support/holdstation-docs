@@ -1,5 +1,5 @@
 ---
-title: "💳 What is Holdstation Pay?"
+title: "💳 What is Holdstation Pay?"
 description: "For Vietnam citizens"
 ---
 

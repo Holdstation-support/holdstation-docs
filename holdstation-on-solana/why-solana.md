@@ -1,4 +1,7 @@
-# 🟣 Why Solana?
+---
+title: "🟣 Why Solana?"
+sidebarTitle: "🟣 Why Solana?"
+---
 
 Holdstation is revolutionizing AI-powered crypto agents and autonomous trading with Solana as its foundation—a decision rooted in precision, execution, and scalability. Among numerous Layer 1 (L1) and Layer 2 (L2) options, Solana stands out as the ideal base for an agent-native stack, where crypto and AI converge onchain.
 

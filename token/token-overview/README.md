@@ -1,4 +1,7 @@
-# 📈 Token Overview
+---
+title: "📈 Token Overview"
+sidebarTitle: "📈 Token Overview"
+---
 
 ## **What is HOLD?**
 

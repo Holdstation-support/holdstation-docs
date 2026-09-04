@@ -1,4 +1,7 @@
-# ❓ Why BNB Chain?
+---
+title: "❓ Why BNB Chain?"
+sidebarTitle: "❓ Why BNB Chain?"
+---
 
 BNB Chain is one of the world’s largest blockchain networks, built for **speed, scalability, and mass adoption**. With millions of daily users and deep liquidity, it powers some of the most popular Web3 applications in DeFi, GameFi, and payments.
 

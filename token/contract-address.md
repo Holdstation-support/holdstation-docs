@@ -1,4 +1,7 @@
-# 📔 Contract Address
+---
+title: "📔 Contract Address"
+sidebarTitle: "📔 Contract Address"
+---
 
 **HOLD Token (Berachain):** [0xFF0a636Dfc44Bb0129b631cDd38D21B613290c98](https://berascan.com/token/0xFF0a636Dfc44Bb0129b631cDd38D21B613290c98)
 

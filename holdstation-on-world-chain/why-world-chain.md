@@ -1,4 +1,7 @@
-# 👁️ Why World Chain?
+---
+title: "👁️ Why World Chain?"
+sidebarTitle: "👁️ Why World Chain?"
+---
 
 **World Chain** is the first _human-centric_ chain, purpose-built to prioritize real users over bots, and unlock the next billion in on-chain activity. Developed by the team behind Worldcoin and built on the OP Stack, World Chain is designed to be a permissionless public network that leverages biometric proof-of-personhood, real-world incentives, and a user-first execution layer.
 

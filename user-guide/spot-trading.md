@@ -1,8 +1,9 @@
 ---
+title: "📪 Spot Trading"
+sidebarTitle: "📪 Spot Trading"
 description: Happy Spot Trading with Holdstation Wallet by follow these simple steps
 ---
 
-# 📪 Spot Trading
 
 ### **📱 Step 1:** Download Holdstation Wallet 
 

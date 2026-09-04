@@ -1,4 +1,7 @@
-# 🔐 Audit
+---
+title: "🔐 Audit"
+sidebarTitle: "🔐 Audit"
+---
 
 ![](../../.gitbook/assets/telegram-cloud-document-5-6134296807267639196.jpg)
 

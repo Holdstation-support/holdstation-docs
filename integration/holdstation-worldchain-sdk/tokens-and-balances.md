@@ -1,4 +1,7 @@
-# 👁️ Tokens and Balances
+---
+title: "👁️ Tokens and Balances"
+sidebarTitle: "👁️ Tokens and Balances"
+---
 
 The <mark style="color:red;">`TokenProvider`</mark> class from <mark style="color:red;">`@holdstation/worldchain-sdk`</mark> enables developers to interact with token metadata, balances, and wallet holdings on WorldChain.
 

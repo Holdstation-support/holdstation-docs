@@ -1,4 +1,7 @@
-# 💱 What is Holdstation Dex
+---
+title: "💱 What is Holdstation Dex"
+sidebarTitle: "💱 What is Holdstation Dex"
+---
 
 **Holdstation DEX Aggregator** is a multichain decentralized exchange (DEX) aggregator designed to provide traders with:
 

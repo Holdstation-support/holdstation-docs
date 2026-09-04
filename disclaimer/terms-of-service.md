@@ -1,4 +1,7 @@
-# 📖 Terms of Service
+---
+title: "📖 Terms of Service"
+sidebarTitle: "📖 Terms of Service"
+---
 
 **Last updated:** September 15, 2025
 

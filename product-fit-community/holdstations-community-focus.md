@@ -1,4 +1,7 @@
-# 🎯 Holdstation’s Community Focus
+---
+title: "🎯 Holdstation’s Community Focus"
+sidebarTitle: "🎯 Holdstation’s Community Focus"
+---
 
 ![](../.gitbook/assets/telegram-cloud-document-5-6251468772142485429.jpg)
 

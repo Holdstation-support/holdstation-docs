@@ -1,8 +1,9 @@
 ---
+title: "👓 Future Direction"
+sidebarTitle: "👓 Future Direction"
 hidden: true
 ---
 
-# 👓 Future Direction
 
 ## Transitioning to a Product-Fit Community
 

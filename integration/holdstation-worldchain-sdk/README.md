@@ -1,4 +1,7 @@
-# 📚 Holdstation/Worldchain-SDK
+---
+title: "📚 Holdstation/Worldchain-SDK"
+sidebarTitle: "📚 Holdstation/Worldchain-SDK"
+---
 
 This document provides a comprehensive guide for integrating the **Holdstation/WorldChain SDK** to support core token functionalities within decentralized applications (dApps). The SDK enables seamless interaction with the WorldChain ecosystem, enhancing user experience and ensuring scalability for Web3-native applications.
 

@@ -1,4 +1,7 @@
-# 🛠️ How to Integrate?
+---
+title: "🛠️ How to Integrate?"
+sidebarTitle: "🛠️ How to Integrate?"
+---
 
 ## Holdstation Aggregator 
 

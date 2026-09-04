@@ -1,4 +1,7 @@
-# 🔑 Multisig Wallet
+---
+title: "🔑 Multisig Wallet"
+sidebarTitle: "🔑 Multisig Wallet"
+---
 
 ### Multisig Treasury Wallets
 

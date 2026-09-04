@@ -1,4 +1,7 @@
-# ⏫ Send
+---
+title: "⏫ Send"
+sidebarTitle: "⏫ Send"
+---
 
 The `Sender` class from `@holdstation/worldchain-sdk` allows developers to send native tokens (e.g., ETH) or ERC20 tokens on WorldChain easily.
 

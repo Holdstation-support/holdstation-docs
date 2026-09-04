@@ -1,4 +1,7 @@
-# 💥 Product Suite
+---
+title: "💥 Product Suite"
+sidebarTitle: "💥 Product Suite"
+---
 
 ![](../../.gitbook/assets/telegram-cloud-document-5-6154498237483980200 (1).jpg)
 

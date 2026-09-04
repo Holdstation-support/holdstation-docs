@@ -1,4 +1,7 @@
-# 🤝 Team
+---
+title: "🤝 Team"
+sidebarTitle: "🤝 Team"
+---
 
 Holdstation was co-founded in April 2022 by a dedicated team united in a vision to bring decentralized technology to millions. Our diverse, experienced professionals share a passion for innovation and user value, driving our mission forward.
 

@@ -1,8 +1,9 @@
 ---
+title: "🔁 Token Migration"
+sidebarTitle: "🔁 Token Migration"
 hidden: true
 ---
 
-# 🔁 Token Migration
 
 ## HOLD Token Migration to Berachain
 

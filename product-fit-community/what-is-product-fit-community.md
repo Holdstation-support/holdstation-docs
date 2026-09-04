@@ -1,4 +1,7 @@
-# 🫂 What is Product Fit Community?
+---
+title: "🫂 What is Product Fit Community?"
+sidebarTitle: "🫂 What is Product Fit Community?"
+---
 
 ![](../.gitbook/assets/telegram-cloud-document-5-6251468772142485428.jpg)
 

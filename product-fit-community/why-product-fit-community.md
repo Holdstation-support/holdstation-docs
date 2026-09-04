@@ -1,4 +1,7 @@
-# ❓ Why Product Fit Community?
+---
+title: "❓ Why Product Fit Community?"
+sidebarTitle: "❓ Why Product Fit Community?"
+---
 
 Most traditional startups begin by chasing **Product-Market Fit**—solving specific problems for specific users. And while that’s a necessary foundation, it often leads to a fragile relationship: users come for utility, but leave the moment a cheaper, faster, or better alternative appears.
 

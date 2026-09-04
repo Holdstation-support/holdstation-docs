@@ -1,8 +1,9 @@
 ---
+title: "💪 Sustainable Expansion"
+sidebarTitle: "💪 Sustainable Expansion"
 hidden: true
 ---
 
-# 💪 Sustainable Expansion
 
 Holdstation’s mission is straightforward: **build sustainable protocols** that generate multiple revenue streams, sharing these profits with our loyal HOLD believers. By implementing a robust tokenomics model, we aim to reduce inflationary pressures on HOLD tokens, maximizing long-term benefits for our community.
 

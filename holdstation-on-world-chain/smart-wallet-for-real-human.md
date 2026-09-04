@@ -1,4 +1,7 @@
-# 🪪 Smart Wallet for Real Human
+---
+title: "🪪 Smart Wallet for Real Human"
+sidebarTitle: "🪪 Smart Wallet for Real Human"
+---
 
 ## 🪪 Holdstation Wallet on World Chain
 

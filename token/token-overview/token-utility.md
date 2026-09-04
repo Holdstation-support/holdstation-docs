@@ -1,4 +1,7 @@
-# 📪 Token Utility
+---
+title: "📪 Token Utility"
+sidebarTitle: "📪 Token Utility"
+---
 
 **$HOLD** - A governance token that enables holders to participate in the decision-making process through voting on DAO proposals, whitelist for launchpad and multiple fees discount.
 

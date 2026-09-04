@@ -1,11 +1,12 @@
 ---
+title: "📑 Term of Use"
+sidebarTitle: "📑 Term of Use"
 description: >-
   Global (excluding the European Economic Area) | Operated by: Fundara – Poland
   (VASP Reg. No. RDWW-1544) | Effective Date: 1 January 2026 | Last Updated: 29
   June 2026
 ---
 
-# 📑 Term of Use
 
 ## Introduction
 

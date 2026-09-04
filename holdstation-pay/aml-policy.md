@@ -1,4 +1,7 @@
-# 🛡️ AML Policy
+---
+title: "🛡️ AML Policy"
+sidebarTitle: "🛡️ AML Policy"
+---
 
 ## Holdstation Anti-Money Laundering (AML) & Counter-Terrorist Financing (CTF) Guideline
 

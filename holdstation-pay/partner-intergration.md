@@ -1,8 +1,9 @@
 ---
+title: "⚙️ Partner Integration"
+sidebarTitle: "⚙️ Partner Integration"
 description: Holdstation Pay API
 ---
 
-# ⚙️ Partner Intergration
 
 **Holdstation Pay** is a digital asset payment intermediary, providing payment solutions for both domestic and international partners.
 

@@ -1,4 +1,7 @@
-# 🚀 Tokenomics
+---
+title: "🚀 Tokenomics"
+sidebarTitle: "🚀 Tokenomics"
+---
 
 **Initial Circulation Supply:** 5,173,500 HOLD (17.25%)
 

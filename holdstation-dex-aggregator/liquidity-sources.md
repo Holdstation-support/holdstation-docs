@@ -1,4 +1,7 @@
-# 🌊 Liquidity Sources
+---
+title: "🌊 Liquidity Sources"
+sidebarTitle: "🌊 Liquidity Sources"
+---
 
 | Liquidity Source    | X                                                                  |
 | ------------------- | ------------------------------------------------------------------ |

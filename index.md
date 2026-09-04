@@ -1,5 +1,6 @@
 ---
 title: "👋 Welcome"
+sidebarTitle: "👋 Welcome"
 description: "The DeFAI Ecosystem Built for Real Users"
 ---
 

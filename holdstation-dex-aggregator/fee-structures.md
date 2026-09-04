@@ -1,4 +1,7 @@
-# 💵 Fee Structures
+---
+title: "💵 Fee Structures"
+sidebarTitle: "💵 Fee Structures"
+---
 
 The fee structure on Holdstation Aggregator is calculated as follows:
 

@@ -1,4 +1,7 @@
-# 📖 End-user Tutorial
+---
+title: "📖 End-user Tutorial"
+sidebarTitle: "📖 End-user Tutorial"
+---
 
 Holdstation Pay lets you buy **USDT/USDC/USD1 directly with VND in under 30 seconds**, supporting both **BNB Chain** and **Solana**. The process is fully **KYC-compliant** and optimized for user experience. Beyond USDT, users can also **buy tokens, join Launchpad events, and purchase U.S. stocks on-chain using VND**.
 

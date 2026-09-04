@@ -1,4 +1,7 @@
-# 💡 Introduction
+---
+title: "💡 Introduction"
+sidebarTitle: "💡 Introduction"
+---
 
 ![](../../.gitbook/assets/telegram-cloud-document-5-6255906736079639172.jpg)
 

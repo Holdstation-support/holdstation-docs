@@ -1,4 +1,7 @@
-# 🏆 Achievements
+---
+title: "🏆 Achievements"
+sidebarTitle: "🏆 Achievements"
+---
 
 Since launching in **April 2022**, **Holdstation** has grown into a leading **smart wallet** and **DeFutures trading platform**, with deep integration across next-generation ecosystems like **World Chain**. Focused on usability, real user engagement, and AI-powered finance, Holdstation has reached several remarkable milestones.
 
