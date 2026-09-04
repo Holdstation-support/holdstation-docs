@@ -1,4 +1,5 @@
 ---
+hidden: true
 title: "💧 Loyalty Program"
 sidebarTitle: "💧 Loyalty Program"
 description: >-

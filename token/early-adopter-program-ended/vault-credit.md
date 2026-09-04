@@ -1,4 +1,5 @@
 ---
+hidden: true
 title: "💳 Vault Credit"
 sidebarTitle: "💳 Vault Credit"
 description: >-

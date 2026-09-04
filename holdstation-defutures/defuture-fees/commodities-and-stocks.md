@@ -1,4 +1,5 @@
 ---
+hidden: true
 title: "💹 Commodities & Stocks"
 sidebarTitle: "💹 Commodities & Stocks"
 ---

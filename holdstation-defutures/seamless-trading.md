@@ -1,4 +1,5 @@
 ---
+hidden: true
 title: "⚡ Seamless Trading"
 sidebarTitle: "⚡ Seamless Trading"
 ---

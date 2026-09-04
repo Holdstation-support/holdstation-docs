@@ -28,12 +28,6 @@
                                                                           "overview/introduction/audit"
                                                                       ]
                                                         },
-                                                        {
-                                                            "group":  "Referral Program",
-                                                            "pages":  [
-                                                                          "overview/referral-program/how-it-work"
-                                                                      ]
-                                                        },
                                                         "overview/link"
                                                     ]
                                       },
@@ -44,45 +38,6 @@
                                                         "product-fit-community/why-product-fit-community",
                                                         "product-fit-community/the-unique-cultures-of-blockchain-communities",
                                                         "product-fit-community/holdstations-community-focus"
-                                                    ]
-                                      },
-                                      {
-                                          "group":  "Holdstation DeFutures",
-                                          "pages":  [
-                                                        {
-                                                            "group":  "Architecture",
-                                                            "pages":  [
-                                                                          "holdstation-defutures/architecture/dynamic-price-feed-dpf",
-                                                                          "holdstation-defutures/architecture/flexible-market-making-fmm"
-                                                                      ]
-                                                        },
-                                                        {
-                                                            "group":  "DeFuture Fees",
-                                                            "pages":  [
-                                                                          "holdstation-defutures/defuture-fees/defuture-fees",
-                                                                          "holdstation-defutures/defuture-fees/commodities-and-stocks",
-                                                                          "holdstation-defutures/defuture-fees/hsusd1-vault"
-                                                                      ]
-                                                        },
-                                                        {
-                                                            "group":  "Keyless Trading Integration",
-                                                            "pages":  [
-                                                                          "holdstation-defutures/holdstation-defutures-keyless-trading-integration/keyless-trading-integration",
-                                                                          "holdstation-defutures/holdstation-defutures-keyless-trading-integration/introduction",
-                                                                          "holdstation-defutures/holdstation-defutures-keyless-trading-integration/integration-guides"
-                                                                      ]
-                                                        },
-                                                        "holdstation-defutures/leverage",
-                                                        "holdstation-defutures/liquidation",
-                                                        "holdstation-defutures/margin-requirement",
-                                                        "holdstation-defutures/seamless-trading"
-                                                    ]
-                                      },
-                                      {
-                                          "group":  "Holdstation Launchpad",
-                                          "pages":  [
-                                                        "holdstation-launchpad/what-is-holdstation-launchpad",
-                                                        "holdstation-launchpad/how-does-the-fair-subscription-model-work"
                                                     ]
                                       },
                                       {
@@ -121,21 +76,6 @@
                                                     ]
                                       },
                                       {
-                                          "group":  "Berachain HONEY Hub",
-                                          "pages":  [
-                                                        "berachains-honey-hub/why-berachain",
-                                                        "berachains-honey-hub/berais.land",
-                                                        "berachains-honey-hub/defai-smart-wallet",
-                                                        {
-                                                            "group":  "Holdstation Foundation",
-                                                            "pages":  [
-                                                                          "berachains-honey-hub/holdstation-foundation/dao-structure",
-                                                                          "berachains-honey-hub/holdstation-foundation/how-to-be-qualified"
-                                                                      ]
-                                                        }
-                                                    ]
-                                      },
-                                      {
                                           "group":  "Holdstation on Solana",
                                           "pages":  [
                                                         "holdstation-on-solana/why-solana"
@@ -150,13 +90,6 @@
                                                                           "token/token-overview/token-overview",
                                                                           "token/token-overview/tokenomics",
                                                                           "token/token-overview/token-utility"
-                                                                      ]
-                                                        },
-                                                        {
-                                                            "group":  "Early Adopter Program (Ended)",
-                                                            "pages":  [
-                                                                          "token/early-adopter-program-ended/loyalty-program",
-                                                                          "token/early-adopter-program-ended/vault-credit"
                                                                       ]
                                                         },
                                                         "token/contract-address",

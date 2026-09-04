@@ -1,4 +1,5 @@
 ---
+hidden: true
 title: "🟡 berAIs.land"
 sidebarTitle: "🟡 berAIs.land"
 ---

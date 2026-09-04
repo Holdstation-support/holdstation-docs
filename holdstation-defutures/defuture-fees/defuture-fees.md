@@ -1,4 +1,5 @@
 ---
+hidden: true
 title: "💲 DeFuture Fees"
 sidebarTitle: "💲 DeFuture Fees"
 ---

@@ -1,4 +1,5 @@
 ---
+hidden: true
 title: "💹 Flexible Market Making (FMM)"
 sidebarTitle: "💹 Flexible Market Making (FMM)"
 ---

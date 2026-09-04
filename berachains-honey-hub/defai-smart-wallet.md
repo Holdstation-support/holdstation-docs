@@ -1,4 +1,5 @@
 ---
+hidden: true
 title: "💳 DeFAI Smart Wallet"
 sidebarTitle: "💳 DeFAI Smart Wallet"
 ---

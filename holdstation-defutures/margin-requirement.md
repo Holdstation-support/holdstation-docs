@@ -1,4 +1,5 @@
 ---
+hidden: true
 title: "🧲 Margin Requirement"
 sidebarTitle: "🧲 Margin Requirement"
 ---

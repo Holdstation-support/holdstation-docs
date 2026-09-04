@@ -1,4 +1,5 @@
 ---
+hidden: true
 title: "❓ How does the Fair Subscription model work?"
 sidebarTitle: "❓ How does the Fair Subscription model work?"
 ---

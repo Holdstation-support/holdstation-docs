@@ -1,4 +1,5 @@
 ---
+hidden: true
 title: "🛠️ Integration Guides"
 sidebarTitle: "🛠️ Integration Guides"
 ---

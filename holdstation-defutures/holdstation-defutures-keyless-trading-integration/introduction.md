@@ -1,4 +1,5 @@
 ---
+hidden: true
 title: "👋 Introduction"
 sidebarTitle: "👋 Introduction"
 ---

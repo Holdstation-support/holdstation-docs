@@ -1,4 +1,5 @@
 ---
+hidden: true
 title: "🚀 What is Holdstation Launchpad?"
 sidebarTitle: "🚀 What is Holdstation Launchpad?"
 ---

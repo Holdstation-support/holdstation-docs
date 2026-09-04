@@ -1,4 +1,5 @@
 ---
+hidden: true
 title: "❓ Why Berachain"
 sidebarTitle: "❓ Why Berachain"
 ---

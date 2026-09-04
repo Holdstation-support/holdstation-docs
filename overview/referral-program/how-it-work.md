@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # ⚙️ How it work
 
 1. **Register & Get Your Link**

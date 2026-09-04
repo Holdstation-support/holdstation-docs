@@ -1,4 +1,5 @@
 ---
+hidden: true
 title: "💡 Dynamic Price Feed (DPF)"
 sidebarTitle: "💡 Dynamic Price Feed (DPF)"
 ---

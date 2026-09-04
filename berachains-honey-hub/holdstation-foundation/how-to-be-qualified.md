@@ -1,4 +1,5 @@
 ---
+hidden: true
 title: "👉 How to be qualified?"
 sidebarTitle: "👉 How to be qualified?"
 ---

@@ -1,4 +1,5 @@
 ---
+hidden: true
 title: "🏧 hsUSD1 Vault"
 sidebarTitle: "🏧 hsUSD1 Vault"
 ---
