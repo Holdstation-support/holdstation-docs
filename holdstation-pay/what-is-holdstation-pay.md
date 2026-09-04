@@ -1,10 +1,11 @@
 ---
-description: For Vietnam citizens
+title: "💳 What is Holdstation Pay?"
+description: "For Vietnam citizens"
 ---
 
-# 💳 What is Holdstation Pay?
 
-![](../.gitbook/assets/telegram-cloud-document-5-6136548607081321975.jpg)
+
+![](/.gitbook/assets/telegram-cloud-document-5-6136548607081321975.jpg)
 
 Holdstation Pay is an innovative on-ramp feature designed to simplify cryptocurrency access within the Holdstation ecosystem. It enables users to purchase USDT using VND, supporting seamless integration with BNB Chain and Solana networks.
 
@@ -19,4 +20,5 @@ Holdstation Pay is an innovative on-ramp feature designed to simplify cryptocurr
 ### Benefits
 
 * **Simplified Onboarding**: Lowers barriers for new users, allowing direct VND-based entry into crypto trading, launches, and stocks without multi-step processes.
-* **Secure & Efficient**: KYC and quick processing provide a trusted, hassle-free experience while maintaining regulatory compliance.
+* **Secure \& Efficient**: KYC and quick processing provide a trusted, hassle-free experience while maintaining regulatory compliance.
+

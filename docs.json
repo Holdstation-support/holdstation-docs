@@ -16,18 +16,19 @@
       {
         "group": "Overview",
         "pages": [
-          "overview/introduction/README",
-          "overview/introduction/achievements",
-          "overview/introduction/future-direction",
-          "overview/introduction/product-suite",
-          "overview/introduction/chain-support",
-          "overview/introduction/team",
-          "overview/introduction/roadmap",
-          "overview/introduction/audit",
-          "overview/referral-program/README",
-          "overview/referral-program/gold",
-          "overview/referral-program/usdc-reward",
-          "overview/referral-program/how-it-work",
+          {
+            "group": "Introduction",
+            "pages": [
+              "overview/introduction/README",
+              "overview/introduction/achievements",
+              "overview/introduction/future-direction",
+              "overview/introduction/product-suite",
+              "overview/introduction/chain-support",
+              "overview/introduction/team",
+              "overview/introduction/roadmap",
+              "overview/introduction/audit"
+            ]
+          },
           "overview/link"
         ]
       },
@@ -37,29 +38,7 @@
           "product-fit-community/what-is-product-fit-community",
           "product-fit-community/why-product-fit-community",
           "product-fit-community/the-unique-cultures-of-blockchain-communities",
-          "product-fit-community/holdstations-community-focus",
-          "product-fit-community/holdstation-across-ecosystems"
-        ]
-      },
-      {
-        "group": "Holdstation DeFutures",
-        "pages": [
-          "holdstation-defutures/holdstation-defutures",
-          "holdstation-defutures/ai-matching-pool",
-          "holdstation-defutures/architecture/README",
-          "holdstation-defutures/architecture/dynamic-price-feed-dpf",
-          "holdstation-defutures/architecture/flexible-market-making-fmm",
-          "holdstation-defutures/seamless-trading",
-          "holdstation-defutures/leverage",
-          "holdstation-defutures/margin-requirement",
-          "holdstation-defutures/liquidation",
-          "holdstation-defutures/defuture-fees/README",
-          "holdstation-defutures/defuture-fees/commodities-and-stocks",
-          "holdstation-defutures/defuture-fees/hsusd1-vault",
-          "holdstation-defutures/holdstation-defutures-keyless-trading-integration/README",
-          "holdstation-defutures/holdstation-defutures-keyless-trading-integration/introduction",
-          "holdstation-defutures/holdstation-defutures-keyless-trading-integration/integration-guides",
-          "ai-communication"
+          "product-fit-community/holdstations-community-focus"
         ]
       },
       {
@@ -76,17 +55,8 @@
         ]
       },
       {
-        "group": "Holdstation Launchpad",
-        "pages": [
-          "holdstation-launchpad/what-is-holdstation-launchpad",
-          "holdstation-launchpad/how-does-the-fair-subscription-model-work",
-          "holdstation-launchpad/affiliate-reward"
-        ]
-      },
-      {
         "group": "Holdstation DEX Aggregator",
         "pages": [
-          "holdstation-dex-aggregator/holdstation-dex-aggregator",
           "holdstation-dex-aggregator/what-is-holdstation-dex",
           "holdstation-dex-aggregator/how-to-integrate",
           "holdstation-dex-aggregator/liquidity-sources",
@@ -97,104 +67,69 @@
         "group": "Holdstation on World Chain",
         "pages": [
           "holdstation-on-world-chain/why-world-chain",
-          "holdstation-on-world-chain/smart-wallet-for-real-human",
-          "holdstation-on-world-chain/aion",
-          "holdstation-on-world-chain/eggs-vault-gamified-rewards",
-          "holdstation-on-world-chain/swipepad",
-          "holdstation-on-world-chain/dalgona"
+          "holdstation-on-world-chain/smart-wallet-for-real-human"
         ]
       },
       {
-        "group": "Holdstation on BNB ",
+        "group": "Holdstation on BNB",
         "pages": [
-          "holdstation-on-bnb/why-bnb-chain",
-          "holdstation-on-bnb/smart-wallet-for-trading"
+          "holdstation-on-bnb/why-bnb-chain"
         ]
       },
       {
-        "group": "🐻 Berachain's HONEY Hub",
+        "group": "Holdstation on Solana",
         "pages": [
-          "berachains-honey-hub/why-berachain",
-          "berachains-honey-hub/defai-smart-wallet",
-          "berachains-honey-hub/trading-smart-wallet/README",
-          "berachains-honey-hub/trading-smart-wallet/fusion-with-zksync-era",
-          "berachains-honey-hub/trading-smart-wallet/account-abstraction",
-          "berachains-honey-hub/trading-smart-wallet/paymaster",
-          "berachains-honey-hub/berais.land",
-          "berachains-honey-hub/holdstation-chest",
-          "berachains-honey-hub/holdstation-foundation/README",
-          "berachains-honey-hub/holdstation-foundation/dao-structure",
-          "berachains-honey-hub/holdstation-foundation/how-to-be-qualified"
-        ]
-      },
-      {
-        "group": "Holdstation on Solana ",
-        "pages": [
-          "holdstation-on-solana/why-solana",
-          "holdstation-on-solana/smart-wallet-for-ai-trading"
-        ]
-      },
-      {
-        "group": "ZKsync's Epicenter",
-        "pages": [
-          "zksyncs-epicenter/defutures",
-          "zksyncs-epicenter/zkstarter",
-          "zksyncs-epicenter/a-i-gentfi",
-          "zksyncs-epicenter/holdstation-swap",
-          "zksyncs-epicenter/holdstation-prediction-market",
-          "zksyncs-epicenter/the-honey-hub-of-berachain",
-          "zksyncs-epicenter/holdstation-research",
-          "zksyncs-epicenter/holdstation-club-soon-reveal"
+          "holdstation-on-solana/why-solana"
         ]
       },
       {
         "group": "Token",
         "pages": [
-          "token/token-overview/README",
-          "token/token-overview/tokenomics",
-          "token/token-overview/token-utility",
-          "token/token-overview/token-migration",
-          "token/token-overview/sustainable-expansion",
-          "token/early-adopter-program-ended/README",
-          "token/early-adopter-program-ended/vault-credit",
-          "token/early-adopter-program-ended/loyalty-program",
+          {
+            "group": "Token Overview",
+            "pages": [
+              "token/token-overview/README",
+              "token/token-overview/tokenomics",
+              "token/token-overview/token-utility",
+              "token/token-overview/token-migration",
+              "token/token-overview/sustainable-expansion"
+            ]
+          },
           "token/contract-address",
-          "token/multisig-wallet",
-          "token/holdstation-public-sales-ended"
+          "token/multisig-wallet"
         ]
       },
       {
         "group": "User Guide",
         "pages": [
-          "user-guide/spot-trading",
-          "user-guide/trading",
-          "user-guide/bridging",
-          "user-guide/vault",
-          "user-guide/hold-staking"
+          "user-guide/spot-trading"
         ]
       },
       {
         "group": "Integration",
         "pages": [
-          "integration/holdstation-gas-station",
-          "integration/holdstation-worldchain-sdk/README",
-          "integration/holdstation-worldchain-sdk/tokens-and-balances",
-          "integration/holdstation-worldchain-sdk/send",
-          "integration/holdstation-worldchain-sdk/swap",
-          "integration/holdstation-worldchain-sdk/widget",
-          "integration/holdstation-worldchain-sdk/history"
+          {
+            "group": "Holdstation/Worldchain-SDK",
+            "pages": [
+              "integration/holdstation-worldchain-sdk/README",
+              "integration/holdstation-worldchain-sdk/tokens-and-balances",
+              "integration/holdstation-worldchain-sdk/send",
+              "integration/holdstation-worldchain-sdk/swap",
+              "integration/holdstation-worldchain-sdk/widget",
+              "integration/holdstation-worldchain-sdk/history"
+            ]
+          }
         ]
       },
       {
         "group": "Disclaimer",
         "pages": [
           "disclaimer/disclaimer",
-          "disclaimer/terms-of-service",
-          "points-system"
+          "disclaimer/terms-of-service"
         ]
       },
       {
-        "group": "Micar Whitepaper",
+        "group": "MiCAR Whitepaper",
         "pages": [
           "micar-white-paper/micar-whitepaper"
         ]
