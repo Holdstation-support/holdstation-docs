@@ -15,7 +15,7 @@ With Holdstation, users can manage tokens, swap assets, claim WLD and HOLD rewar
 
 > **One wallet. Multiple earning paths. Full access to the World ecosystem.**
 
-![](../.gitbook/assets/image (90).png)
+![](/.gitbook/assets/image%20%2890%29.png)
 
 ### Why Holdstation Builds on World Chain
 
@@ -45,7 +45,7 @@ Earning is one of the core reasons users come back to Holdstation.
 
 Inside Holdstation, verified humans can access multiple reward and campaign layers in one place, including **daily WLD claims, HOLD vault campaigns, referral programs, partner quests, and ecosystem incentives**.
 
-![](../.gitbook/assets/image (89).png)
+![](/.gitbook/assets/image%20%2889%29.png)
 
 This makes Holdstation more than a passive wallet. It becomes a daily destination for users who want to stay active, claim rewards, and participate in World Chain campaigns.
 
@@ -71,7 +71,7 @@ World App is becoming home to a growing ecosystem of mini-apps across DeFi, game
 
 Holdstation helps users explore that ecosystem from one wallet interface.
 
-![](../.gitbook/assets/image (91).png)
+![](/.gitbook/assets/image%20%2891%29.png)
 
 Instead of treating each mini-app as a separate experience, Holdstation connects users to the broader World Mini-App economy through campaigns, quests, cross-app integrations, and ecosystem discovery.
 

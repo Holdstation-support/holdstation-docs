@@ -3,7 +3,7 @@ title: "🔗 Link"
 sidebarTitle: "🔗 Link"
 ---
 
-![](../.gitbook/assets/Twitter_Banner_02 (2) (3).jpg)
+![](/.gitbook/assets/Twitter_Banner_02%20%282%29%20%283%29.jpg)
 
 ## **Website**
 

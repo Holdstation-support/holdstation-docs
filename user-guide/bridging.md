@@ -8,7 +8,7 @@ hidden: true
 
 # 🌉 Bridging
 
-![](../.gitbook/assets/image (73).png)
+![](/.gitbook/assets/image%20%2873%29.png)
 
 ## 📚**Step 1: Access Holdstation Bridge**
 
@@ -26,7 +26,7 @@ After successfully connecting your wallet, you will see a list of supported toke
 
 Choose the token that you want to bridge from, and select the current network where your tokens are located. For example, if you have Ethereum-based tokens, select Ethereum as the network.
 
-![](../.gitbook/assets/image (74).png)
+![](/.gitbook/assets/image%20%2874%29.png)
 
 ## 🚀**Step 4: Select the Token and Network to Bridge To** 
 
@@ -60,6 +60,6 @@ You have now successfully bridged your tokens from one network to another
 
 _**Note:** Please note that XYfinance powers this bridging function, and you can use this platform to swap and trade tokens on five different chains: Ethereum, Linea, Base, zkSync Era, and Arbitrum. Explore the additional features and trading options provided by XYfinance on the Holdstation platform._
 
-![](../.gitbook/assets/image (75).png)
+![](/.gitbook/assets/image%20%2875%29.png)
 
 That's it! You've successfully completed the process of bridging tokens using the Holdstation Bridge. Remember to exercise caution and double-check all details before confirming any transactions, especially when dealing with cryptocurrency assets.

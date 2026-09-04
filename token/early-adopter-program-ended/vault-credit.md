@@ -1,12 +1,11 @@
 ---
 title: "💳 Vault Credit"
 sidebarTitle: "💳 Vault Credit"
----
----
 description: >-
   This program has now ended, however, users can still earn real-yield rewards
   by staking USDC / HOLD
 ---
+
 
 
 
@@ -16,7 +15,7 @@ description: >-
 
 The Early Adopter Program offers Vault Token Credit, designed to elevate the Holdstation Crypto DeFuture Vault - further details on this can be found in the [Vault Section](../../holdstation-defutures/defuture-fees/hsusd1-vault.md)
 
-<table><thead><tr><th width="216">Program Name</th><th>Vault Credit</th></tr></thead><tbody><tr><td>Description</td><td>Part of the Early Adopter Program with the aim to boost the Crypto DeFuture Vault. More information about the vault can be found in the "<a href="vault-credit.md">Vault Section</a>."</td></tr><tr><td>HST Credits Allocation</td><td>1,500,000 HST Credits</td></tr><tr><td>Epochs</td><td>Total 43 Epoches</td></tr><tr><td>Epoch Length</td><td>Epoch 1 -7: 7 days<br>Epoch 7 - 43: 4 days</td></tr><tr><td>Total Program Length</td><td>176 days</td></tr><tr><td>Total Credit Allocation</td><td>1,500,000 HST Credits</td></tr><tr><td>Credit Allocation per Epoch</td><td><p>Epoch 1 - 7: 60,000 HST Credits per epoch</p><p>Epoch 7 - 43: 34,500 HST Credits per epoch</p></td></tr><tr><td>Start Date (ETA)</td><td>10th May 2023</td></tr></tbody></table>
+<table><thead><tr><th width="216">Program Name</th><th>Vault Credit</th></tr></thead><tbody><tr><td>Description</td><td>Part of the Early Adopter Program with the aim to boost the Crypto DeFuture Vault. More information about the vault can be found in the "<a href="vault-credit.md">Vault Section</a>."</td></tr><tr><td>HST Credits Allocation</td><td>1,500,000 HST Credits</td></tr><tr><td>Epochs</td><td>Total 43 Epoches</td></tr><tr><td>Epoch Length</td><td>Epoch 1 -7: 7 days<br />Epoch 7 - 43: 4 days</td></tr><tr><td>Total Program Length</td><td>176 days</td></tr><tr><td>Total Credit Allocation</td><td>1,500,000 HST Credits</td></tr><tr><td>Credit Allocation per Epoch</td><td><p>Epoch 1 - 7: 60,000 HST Credits per epoch</p><p>Epoch 7 - 43: 34,500 HST Credits per epoch</p></td></tr><tr><td>Start Date (ETA)</td><td>10th May 2023</td></tr></tbody></table>
 
 #### In this program, a total of **1,500,000 HST Credits will be distributed, with 34,500 HST Credits allocated per Epoch**. 
 

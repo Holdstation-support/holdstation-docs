@@ -3,7 +3,7 @@ title: "🫂 What is Product Fit Community?"
 sidebarTitle: "🫂 What is Product Fit Community?"
 ---
 
-![](../.gitbook/assets/telegram-cloud-document-5-6251468772142485428.jpg)
+![](/.gitbook/assets/telegram-cloud-document-5-6251468772142485428.jpg)
 
 Holdstation’s journey started with Product-Market Fit (PMF), focusing on user needs, utility, and traction in DeFi and trading since its inception. By 2025, PMF evolves into Product Fit Community (PFC), aligning with AI-enhanced products, community incentives, and real-user verification (e.g., World ID).
 

@@ -3,7 +3,7 @@ title: "🎯 Holdstation’s Community Focus"
 sidebarTitle: "🎯 Holdstation’s Community Focus"
 ---
 
-![](../.gitbook/assets/telegram-cloud-document-5-6251468772142485429.jpg)
+![](/.gitbook/assets/telegram-cloud-document-5-6251468772142485429.jpg)
 
 Holdstation is built for a new generation of crypto users—those who don’t just want tools, but want to belong. Our community strategy centers on three distinct, high-impact user groups:
 

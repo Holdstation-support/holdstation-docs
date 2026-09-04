@@ -3,7 +3,7 @@ title: "💡 Introduction"
 sidebarTitle: "💡 Introduction"
 ---
 
-![](../../.gitbook/assets/telegram-cloud-document-5-6255906736079639172.jpg)
+![](/.gitbook/assets/telegram-cloud-document-5-6255906736079639172.jpg)
 
 Holdstation is a **modular financial operating system (OS)** designed with a deep commitment to the **Product Fit Community**, crafting solutions for real users with real needs. From its inception, every feature is tailored through cultural and behavioral alignment with its user base, refined via real-time feedback, and powered by cutting-edge technology focused on long-term value creation. 
 

@@ -14,7 +14,7 @@ sidebarTitle: "🚀 What is Holdstation Launchpad?"
 
 ## **Launchpad Models**
 
-![](../.gitbook/assets/image (2).png)
+![](/.gitbook/assets/image%20%282%29.png)
 
 Holdstation launchpad is a highly customizable launchpad, tailored to fit the specific needs of projects. Different token sale models can be customized on our platform:
 

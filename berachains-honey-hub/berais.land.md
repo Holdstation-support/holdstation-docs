@@ -3,7 +3,7 @@ title: "🟡 berAIs.land"
 sidebarTitle: "🟡 berAIs.land"
 ---
 
-![](../.gitbook/assets/7 (2) (2).png)
+![](/.gitbook/assets/7%20%282%29%20%282%29.png)
 
 Holdstation is buzzing with pride as we dive into incubating berAIs.land. This platform emerges as the vanguard in AI integration on this platform, leveraging innovation technology and supported by a based team from TradFi. This incubation underscores our commitment to pushing innovation boundaries, positioning us at the nexus of DeFi and AI, envisioning a future where both ecosystems flourish in unison.
 

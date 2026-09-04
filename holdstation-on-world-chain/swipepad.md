@@ -13,7 +13,7 @@ SwipePad, a standout side project within the Holdstation ecosystem, redefines to
 * **Human-First Approach**: Prioritizes verified users with unlimited purchase options, while capping non-verified allocations for fairness.
 * **Track & Earn**: Monitor portfolio growth effortlessly and earn rewards as an active SwipePad community member.
 
-![](../.gitbook/assets/telegram-cloud-photo-size-5-6131820681768321286-w (1).jpg)
+![](/.gitbook/assets/telegram-cloud-photo-size-5-6131820681768321286-w%20%281%29.jpg)
 
 ## Performance Snapshot
 
@@ -27,4 +27,4 @@ SwipePad, a standout side project within the Holdstation ecosystem, redefines to
 3. Open SwipePad mini app inside the app.
 4. Swipe left of right to buy/skip token. Choose "+" to create new token 
 
-![](../.gitbook/assets/telegram-cloud-photo-size-5-6152093923837855758-w.jpg)
+![](/.gitbook/assets/telegram-cloud-photo-size-5-6152093923837855758-w.jpg)

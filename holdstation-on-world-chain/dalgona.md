@@ -18,5 +18,5 @@ Dalgona brings a delightful twist to the Holdstation ecosystem, blending classic
 * **Ranking**: #16 on miniapps.world, a top-tier debut among 331 mini apps.
 * **Ecosystem Synergy**: Complements Holdstation Wallet (#14 with 113,591 unique 7d opens), enhancing user engagement.
 
-![](../.gitbook/assets/telegram-cloud-photo-size-5-6152093923837855759-w (1).jpg)
+![](/.gitbook/assets/telegram-cloud-photo-size-5-6152093923837855759-w%20%281%29.jpg)
 

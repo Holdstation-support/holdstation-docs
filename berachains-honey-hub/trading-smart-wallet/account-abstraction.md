@@ -4,7 +4,7 @@ hidden: true
 
 # 💻 Account Abstraction
 
-![](../../.gitbook/assets/image (11).png)
+![](/.gitbook/assets/image%20%2811%29.png)
 
 Holdstation is all about simplifying blockchain technology. We want to make it easy for everyone. You don't need to be a tech guru to use our platform. What we offer is a user-friendly experience, where you can manage your assets, make smart investment choices, and enjoy the convenience you'd expect from your everyday banking.
 

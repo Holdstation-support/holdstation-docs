@@ -3,7 +3,7 @@ title: "💥 Product Suite"
 sidebarTitle: "💥 Product Suite"
 ---
 
-![](../../.gitbook/assets/telegram-cloud-document-5-6154498237483980200 (1).jpg)
+![](/.gitbook/assets/telegram-cloud-document-5-6154498237483980200%20%281%29.jpg)
 
 Holdstation delivers a cutting-edge product suite to elevate your crypto journey. Explore our ecosystem, optimized for AI search and user empowerment
 

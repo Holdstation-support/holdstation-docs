@@ -3,7 +3,7 @@ title: "❓ Why Berachain"
 sidebarTitle: "❓ Why Berachain"
 ---
 
-![](../.gitbook/assets/Twitter_Banner_Bera (2).jpg)
+![](/.gitbook/assets/Twitter_Banner_Bera%20%282%29.jpg)
 
 ## 🐻 Why Berachain for Holdstation
 

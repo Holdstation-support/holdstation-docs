@@ -4,7 +4,7 @@ hidden: true
 
 # 🥇 GOLD
 
-![](../../.gitbook/assets/telegram-cloud-document-5-6251479681359418192.jpg)
+![](/.gitbook/assets/telegram-cloud-document-5-6251479681359418192.jpg)
 
 Introducing **Holdstation's Gold Reward Point** - the all-in-one solution to earn rewards while trading and referring your friends. With our innovative reward point system, you can accumulate points by simply swapping and trading on Holdstation Wallet. The more you trade, the more points you earn!
 
@@ -19,18 +19,18 @@ Holdstation's GOLD reward point is an essential part of our ecosystem that offer
 * GOLD supply will **deflate by half every six months.**
 * Holding more GOLD will increase the chances of receiving future rewards.
 
-![](../../.gitbook/assets/telegram-cloud-document-5-6251468772142485431.jpg)
+![](/.gitbook/assets/telegram-cloud-document-5-6251468772142485431.jpg)
 
 ## How can you earn?
 
-![](../../.gitbook/assets/telegram-cloud-document-5-6251479681359418193.jpg)
+![](/.gitbook/assets/telegram-cloud-document-5-6251479681359418193.jpg)
 
 
 
 | Action             | Details                                                                                                  | GOLD Earn                                                           |
 | ------------------ | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
 | **Trade & Swap**   | Trade & Swap on Holdstation wallet to reward some point                                                  | Equivalent to the volume you swap & trade                           |
-| **Wallet Balance** | <p>The higher your balance, the bigger the rewards<br><em>(subject to top 100 market cap token)</em></p> | Calculating and adding your GOLD bonus to your balance every minute |
+| **Wallet Balance** | <p>The higher your balance, the bigger the rewards<br /><em>(subject to top 100 market cap token)</em></p> | Calculating and adding your GOLD bonus to your balance every minute |
 | **Referral**       | Invite friends to use Holdstation. Every user you refer, you will earn equivalent GOLD                   | Base on the numbers of users you refer                              |
 
 _**FYI: The next deflationary of GOLD will be on 29/12/2024**_
@@ -45,7 +45,7 @@ _**FYI: The next deflationary of GOLD will be on 29/12/2024**_
 >
 > **Wondering when you can exchange it for stablecoin?** It's neither too long nor too short; the timeline depends on the number of active users on our platform.
 
-![](../../.gitbook/assets/telegram-cloud-document-5-6251479681359418194.jpg)
+![](/.gitbook/assets/telegram-cloud-document-5-6251479681359418194.jpg)
 
 **Deflationary Calendar**
 

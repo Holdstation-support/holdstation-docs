@@ -3,7 +3,7 @@ title: "🔐 Audit"
 sidebarTitle: "🔐 Audit"
 ---
 
-![](../../.gitbook/assets/telegram-cloud-document-5-6134296807267639196.jpg)
+![](/.gitbook/assets/telegram-cloud-document-5-6134296807267639196.jpg)
 
 Holdstation is proud to have undergone a thorough audit by VeriChain, a leading blockchain auditing firm. Our existing working product has been functioning smoothly and securely for almost a year now, with no reported hacks or security breaches. 
 

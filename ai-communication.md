@@ -5,7 +5,7 @@ hidden: true
 
 # 👨‍💻 AI Communication
 
-![](.gitbook/assets/telegram-cloud-document-5-6251479681359418186.jpg)
+![](/.gitbook/assets/telegram-cloud-document-5-6251479681359418186.jpg)
 
 Imagine interacting with your own AI-powered agent directly in your Holdstation wallet—no apps, no setup—just smarter, faster, and more profitable crypto insights. Users can engage, train, and customize dynamic AI agents tailored to their unique needs.
 

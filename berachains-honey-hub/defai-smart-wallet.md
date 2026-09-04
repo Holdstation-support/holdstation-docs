@@ -3,7 +3,7 @@ title: "💳 DeFAI Smart Wallet"
 sidebarTitle: "💳 DeFAI Smart Wallet"
 ---
 
-![](../.gitbook/assets/0602_Exclusive Features on Berachain.png)
+![](/.gitbook/assets/0602_Exclusive%20Features%20on%20Berachain.png)
 
 At Holdstation, we build beyond functionality, fostering a **Product Fit Community (PFC)** with our Smart Wallet on Berachain. Seamlessly integrated into Berachain’s vibrant ecosystem, it empowers users to engage and thrive together.
 

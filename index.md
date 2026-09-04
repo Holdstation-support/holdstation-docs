@@ -4,7 +4,7 @@ sidebarTitle: "👋 Welcome"
 description: "The DeFAI Ecosystem Built for Real Users"
 ---
 
-![](.gitbook/assets/telegram-cloud-document-5-6132188918923139369.jpg)
+![](/.gitbook/assets/telegram-cloud-document-5-6132188918923139369.jpg)
 
 Holdstation began its journey in April 2022, born from a deep belief in user-centric innovation. Originally inspired by foundational ideas in Layer 2 scalability and abstraction, our mission has since evolved far beyond infrastructure. Today, Holdstation stands at the intersection of AI, DeFi, and real-world usability—building for the next generation of traders, not just wallets.
 

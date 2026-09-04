@@ -20,4 +20,4 @@ At Holdstation Foundation, we are committed to fostering a decentralized and dem
 2. **Community Review:** Your proposal will be reviewed by the Holdstation community, who will evaluate its feasibility, impact, and alignment with the foundation's goals and values.
 3. **Voting:** If your proposal passes the community review, it will be put up for a vote by the Holdstation Foundation DAO members. The proposal will need to receive a certain amount of votes to be approved.
 
-![](../../.gitbook/assets/DAOMEMBER.jpg)
+![](/.gitbook/assets/DAOMEMBER.jpg)

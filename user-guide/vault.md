@@ -15,7 +15,7 @@ hidden: true
 
 👉  **Step 3:** Once your wallet is connected, you'll see the option to **"Deposit".** Click on it.
 
-![](../.gitbook/assets/image (18).png)
+![](/.gitbook/assets/image%20%2818%29.png)
 
 👉  **Step 4**: Enter the amount of USDC you want to deposit into the Vault. Make sure you are comfortable with the amount you're depositing.
 
@@ -27,7 +27,7 @@ hidden: true
 
 👉  **Step 2:** Enter the amount of USDC you wish to withdraw from the Vault. Ensure it doesn't exceed your available balance.
 
-![](../.gitbook/assets/image (19).png)
+![](/.gitbook/assets/image%20%2819%29.png)
 
 👉  **Step 3**: Confirm and sign the withdrawal transaction using your connected wallet.
 
@@ -35,7 +35,7 @@ hidden: true
 
 👉  **Step 5:** After the waiting period is over (about 20 days), you can now proceed to redeem your funds. Click on the **"Redeem"** button.
 
-![](../.gitbook/assets/image (83).png)
+![](/.gitbook/assets/image%20%2883%29.png)
 
 👉  **Step 6:** You'll be prompted to sign another transaction to complete the redemption process. Sign the transaction using your connected wallet.
 

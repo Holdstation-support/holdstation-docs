@@ -7,7 +7,7 @@ Holdstation was co-founded in April 2022 by a dedicated team united in a vision 
 
 ## Core Member
 
-![](../../.gitbook/assets/image (31).png)
+![](/.gitbook/assets/image%20%2831%29.png)
 
 ### Key Leaders
 

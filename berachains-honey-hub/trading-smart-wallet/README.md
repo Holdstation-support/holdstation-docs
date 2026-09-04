@@ -4,7 +4,7 @@ hidden: true
 
 # 🗳️ Trading Smart Wallet
 
-![](../../.gitbook/assets/telegram-cloud-document-5-6255906736079639172 (3).jpg)
+![](/.gitbook/assets/telegram-cloud-document-5-6255906736079639172%20%283%29.jpg)
 
 We've crafted a Web3 Account Abstraction Wallet that blend with future trading, self-custodianship, and user privacy. With a strong belief in Decentralisation and Permissionless Protocols, we strive to bring a CeFi experience to the world of DeFi on Holdstation Ecosystem.
 
@@ -12,7 +12,7 @@ We've crafted a Web3 Account Abstraction Wallet that blend with future trading, 
 * **Native AA:** A sleek, user-friendly interface powered by the latest Account Abstraction.
 * **0% Fees on Layer 2 and 0.2% on EVM Chain:** compare to Rainbow, Trust Wallets, and Metamask, we charged much minimum transaction costs and optimized the gas fees. 
 
-![](../../.gitbook/assets/image (68).png)
+![](/.gitbook/assets/image%20%2868%29.png)
 
 ## Why Using Holdstation Smart Wallet?
 

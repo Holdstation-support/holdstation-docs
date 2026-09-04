@@ -12,7 +12,7 @@ hidden: true
 
 👉  **Step 3:** Click the **"Stake"** button once your wallet is connected.
 
-![](../.gitbook/assets/image (80).png)
+![](/.gitbook/assets/image%20%2880%29.png)
 
 👉  **Step 4**: Enter the amount of HOLD you wish to stake in the Pool. Ensure that you are comfortable with this amount.
 
@@ -24,7 +24,7 @@ hidden: true
 
 👉  **Step 2:** Input the amount of HOLD you want to unstake, making sure it is within your available balance.
 
-![](../.gitbook/assets/image (81).png)
+![](/.gitbook/assets/image%20%2881%29.png)
 
 👉  **Step 3**: Confirm and sign the unstake transaction using your connected wallet.
 
@@ -32,7 +32,7 @@ hidden: true
 
 👉  **Step 5:** After the waiting period is over (about 20 days), you can now proceed to redeem your funds. Click on the **"Redeem"** button.
 
-![](../.gitbook/assets/image (82).png)
+![](/.gitbook/assets/image%20%2882%29.png)
 
 👉  **Step 6:** You will need to sign another transaction to complete the redemption. Sign this transaction using your connected wallet.
 

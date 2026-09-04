@@ -9,7 +9,7 @@ HOLD token distribution follows a **fixed supply**, decaying emission model as a
 
 ## $HOLD Utility <a href="#what-is-the-utility-of-usdhold" id="what-is-the-utility-of-usdhold"></a>
 
-![](../../.gitbook/assets/telegram-cloud-document-5-6154498237483980238.jpg)
+![](/.gitbook/assets/telegram-cloud-document-5-6154498237483980238.jpg)
 
 Our platform was accumulating an impressive **$3,300,000+ in trading fees** - an achievement that has us buzzing with excitement! Imagine the excitement as our official token $HOLD takes center stage, **sharing 40% of trading fees**. It's not just a makeover; it's a complete game-changer, igniting a fresh approach to maximizing gains of #realyield.
 

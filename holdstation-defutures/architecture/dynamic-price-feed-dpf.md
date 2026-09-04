@@ -13,5 +13,5 @@ Holdstation's Dynamic Price Feed (DPF) is an essential tool that provides accura
 
 This layered system makes Holdstation a reliable choice for secure, manipulation-free trading.
 
-![](../../.gitbook/assets/telegram-cloud-document-5-6152134308959099439.jpg)
+![](/.gitbook/assets/telegram-cloud-document-5-6152134308959099439.jpg)
 

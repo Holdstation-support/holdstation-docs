@@ -35,4 +35,4 @@ As of May 2025:
 4. Choose an asset (e.g. $WLD) and follow/counter AION’s prediction every 5 minutes.
 5. Using $AION to earn cashback when you make a wrong prediction
 
-![](../.gitbook/assets/telegram-cloud-photo-size-5-6122729906744971831-y.jpg)
+![](/.gitbook/assets/telegram-cloud-photo-size-5-6122729906744971831-y.jpg)

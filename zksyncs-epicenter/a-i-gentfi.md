@@ -4,7 +4,7 @@ hidden: true
 
 # 🤖 A(i)gentFi
 
-![](../.gitbook/assets/telegram-cloud-document-5-6251027301044065888.jpg)
+![](/.gitbook/assets/telegram-cloud-document-5-6251027301044065888.jpg)
 
 ## **What is A(i)gentFi?**
 

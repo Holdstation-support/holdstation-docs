@@ -10,7 +10,7 @@ hidden: true
 
 ## **Desktop:**
 
-![](../.gitbook/assets/Screenshot 2025-08-18 at 11.52.46.png)
+![](/.gitbook/assets/Screenshot%202025-08-18%20at%2011.52.46.png)
 
 ### **Step 1: Enter** [**holdstation.exchange**](https://holdstation.exchange/)
 

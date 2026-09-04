@@ -4,7 +4,7 @@ hidden: true
 
 # 🤝 Fusion with zkSync Era
 
-![](../../.gitbook/assets/image (10).png)
+![](/.gitbook/assets/image%20%2810%29.png)
 
 Holdstation embarked on a journey marked by innovation when Vitalik Buterin outlined the potential of Layer 2 scaling and account abstraction. This vision led us to zkSync, the pinnacle of zk-Roll Up technology.
 

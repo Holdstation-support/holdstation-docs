@@ -19,7 +19,7 @@ Holdstation Launchpad is at the forefront of the zkSync era, bringing a revoluti
 
 ## Launch Schedule
 
-![](../.gitbook/assets/image (76).png)
+![](/.gitbook/assets/image%20%2876%29.png)
 
 The HOLD public sale kicked off on **12:00 PM -** **November 21, 2023**, and concluded on **12:00 PM -November 24, 2023**. Following this, HOLD/ETH liquidity will make its debut on **12:30PM - November 27, 2023** via Syncswap DEX on zkSync Era.
 
@@ -32,11 +32,11 @@ Users have the opportunity to distribute a referral link and receive a **2% rewa
 
 ## **Holdstation Public Sales**  <a href="#holdstation-public-sales-information" id="holdstation-public-sales-information"></a>
 
-![](../.gitbook/assets/image (16).png)
+![](/.gitbook/assets/image%20%2816%29.png)
 
 ## **Post-sale, funds are allocated as follows:** <a href="#post-sale-funds-are-allocated-as-follows" id="post-sale-funds-are-allocated-as-follows"></a>
 
-![Funds Allocation](../.gitbook/assets/image (12).png)
+![Funds Allocation](/.gitbook/assets/image%20%2812%29.png)
 
 **Protocol Owned Liquidity (POL)** - **70%** A substantial of the funds  devoted to POL to support the growth of Holdstation Account Abstraction Wallet, which includes the following:
 

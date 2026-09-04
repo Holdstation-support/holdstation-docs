@@ -20,4 +20,4 @@ With a user-friendly interface and a range of advanced trading tools, Holdstatio
 * **Appstore (IOS):** [https://apps.apple.com/vn/app/holdstation-web3-wallet/id6444925618](https://apps.apple.com/vn/app/holdstation-web3-wallet/id6444925618)
 * **Android (Google Play):** [https://play.google.com/store/apps/details?id=io.holdstation\&hl=en\&gl=US\&pli=1](https://play.google.com/store/apps/details?id=io.holdstation\&hl=en\&gl=US\&pli=1)
 
-![](../.gitbook/assets/telegram-cloud-document-5-6255906736079639172 (2).jpg)
+![](/.gitbook/assets/telegram-cloud-document-5-6255906736079639172%20%282%29.jpg)

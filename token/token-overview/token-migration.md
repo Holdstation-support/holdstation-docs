@@ -20,4 +20,4 @@ Holdstation is embarking on an innovative journey by bridging HOLD tokens to **B
 
 That's it! Now you're part of Holdstation's expansion into the Berachain ecosystem.
 
-![](../../.gitbook/assets/image (84).png)
+![](/.gitbook/assets/image%20%2884%29.png)

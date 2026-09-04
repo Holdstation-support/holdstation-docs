@@ -9,7 +9,7 @@ sidebarTitle: "📕 Disclaimer"
 
 This whitepaper is intended for general informational purposes only and does not constitute a prospectus, an offer document, an offer of securities, a solicitation for investment, or any offer to sell any product, item or asset (whether digital or otherwise). This whitepaper is also not a recommendation to acquire any tokens or to participate in any of Holdstation's protocols. 
 
-This whitepaper has not been filed or registered, or reviewed by, any regulatory authority. You are responsible for ensuring that your ownership of any tokens and participation in any of Holdstation's protocols is permitted by the laws applicable to you. No such action or assurance has been or will be taken under the laws, regulatory requirements or rules of any jurisdiction. If it is not lawful under your jurisdiction of residence to access this whitepaper, you must cease all such access.<br>
+This whitepaper has not been filed or registered, or reviewed by, any regulatory authority. You are responsible for ensuring that your ownership of any tokens and participation in any of Holdstation's protocols is permitted by the laws applicable to you. No such action or assurance has been or will be taken under the laws, regulatory requirements or rules of any jurisdiction. If it is not lawful under your jurisdiction of residence to access this whitepaper, you must cease all such access.<br />
 
 ## Forward Looking Statements
 
@@ -31,5 +31,5 @@ Further, you acknowledge that circumstances may change and that this whitepaper 
 
 ## No Distribution 
 
-No part of this whitepaper is to be copied, reproduced, distributed or disseminated in any way without the prior written consent of Holdstation.<br>
+No part of this whitepaper is to be copied, reproduced, distributed or disseminated in any way without the prior written consent of Holdstation.<br />
 

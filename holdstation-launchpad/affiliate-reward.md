@@ -6,7 +6,7 @@ hidden: true
 
 ## **Affiliate** <a href="#affiliate-program" id="affiliate-program"></a>
 
-![](../.gitbook/assets/image (60).png)
+![](/.gitbook/assets/image%20%2860%29.png)
 
 This is an incentive program for users to invite their friends to participate in the launchpad. If a user uses the provided link to invite their friends to join, they will receive a **2% commission** on the stakes placed by the friends they invite. The commission will be paid in $ETH.
 

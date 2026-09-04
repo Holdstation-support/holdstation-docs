@@ -11,7 +11,7 @@ zkStarter ensures a fair participation mechanism in token sales, free from compl
 
 Thanks to the integration of advanced zkSync technologies like **Paymaster** and **native Account Abstraction**, participants in token sales on zkStarter can pay gas fees with any token or even have these fees fully sponsored.  Additionally, with one-click feature, users enjoy a seamless experience akin to Web 2 dApps.
 
-![](../.gitbook/assets/image (55).png)
+![](/.gitbook/assets/image%20%2855%29.png)
 
 ## **zkStarter Launchpad Models**
 
@@ -36,7 +36,7 @@ To ensure fairness, our fair launch model adheres to principles that include Sof
 
 > If the amount raised exceeds the hard cap, participants will receive tokens based on their contribution percentage in the pool. Any excess funds will be claimed at the end of the token sale.
 
-![](../.gitbook/assets/123312320.png)
+![](/.gitbook/assets/123312320.png)
 
 ### The unique features of zkStarter <a href="#the-unique-features-of-holdstation-launchpad" id="the-unique-features-of-holdstation-launchpad"></a>
 

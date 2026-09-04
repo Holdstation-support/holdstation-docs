@@ -16,7 +16,7 @@ This is the **end-to-end** flow:
 
 #### 1.1. High-level state flow
 
-![](../../.gitbook/assets/image (1).png)
+![](/.gitbook/assets/image%20%281%29.png)
 
 Interpretation:
 
@@ -41,7 +41,7 @@ Interpretation:
 
 #### 1.2. Detailed sequence diagram
 
-![](../../.gitbook/assets/image.png)
+![](/.gitbook/assets/image.png)
 
 ### 2. Step-by-Step Guides
 

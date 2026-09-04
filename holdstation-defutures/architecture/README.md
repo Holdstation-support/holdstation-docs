@@ -10,7 +10,7 @@ hidden: true
 
 The diagram below will help you visualize how Holdstation BeFutures operates and how we can provide optimal order execution for you.
 
-![](../../.gitbook/assets/telegram-cloud-document-5-6152134308959099566.jpg)
+![](/.gitbook/assets/telegram-cloud-document-5-6152134308959099566.jpg)
 
 ## How Holdstation DeFutures works
 

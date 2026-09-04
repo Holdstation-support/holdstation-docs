@@ -37,7 +37,7 @@ Example: 3,500 HOLD staked earns 2 Points daily.
 | $320            | 6 Points    |
 | $640            | 7 Points    |
 | $1,280          | 8 Points    |
-| ...and so on    | <p><br></p> |
+| ...and so on    | <p><br /></p> |
 
 ### **Multipliers**
 
@@ -63,9 +63,9 @@ Volume for beFu
 | $240,000                     | 6 Points    |
 | $480,000                     | 7 Points    |
 | $960,000                     | 8 Points    |
-| ...and so on                 | <p><br></p> |
+| ...and so on                 | <p><br /></p> |
 
-<br>
+<br />
 
 * Effective volume on beFuture includes leveraged positions (e.g., a $100 trade with 10x leverage counts as $1,000 in volume).
 * Volume is calculated in USD based on the HOLD price at the time of the trade.

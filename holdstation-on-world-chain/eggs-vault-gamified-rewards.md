@@ -50,5 +50,5 @@ As of May 2025:
 4. Complete tasks to charge your egg.
 5. Hatch your egg, claim rewards, repeat daily.
 
-![](../.gitbook/assets/telegram-cloud-photo-size-5-6152093923837855757-w.jpg)
+![](/.gitbook/assets/telegram-cloud-photo-size-5-6152093923837855757-w.jpg)
 

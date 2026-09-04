@@ -21,5 +21,5 @@ Holdstation Wallet unlocks unique trading tools, transforming it into the ultima
 * **Unified Interface:** Swap, margin, and trade all in one wallet, eliminating the need for multiple platforms.
 * **Smart Trade Routing:** Optimal execution with aggregated liquidity from connected venues.
 
-![](../.gitbook/assets/Screenshot 2025-08-25 at 12.42.01.png)
+![](/.gitbook/assets/Screenshot%202025-08-25%20at%2012.42.01.png)
 

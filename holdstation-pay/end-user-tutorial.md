@@ -13,7 +13,7 @@ Holdstation Pay lets you buy **USDT/USDC/USD1 directly with VND in under 30 seco
 
 ## **Step-by-Step Usage**
 
-![](../.gitbook/assets/telegram-cloud-document-5-6136548607081321974.jpg)
+![](/.gitbook/assets/telegram-cloud-document-5-6136548607081321974.jpg)
 
 #### 1. Open Holdstation Pay
 
@@ -40,7 +40,7 @@ Holdstation Pay lets you buy **USDT/USDC/USD1 directly with VND in under 30 seco
 * Upload front and back images of your ID.
 * If already verified, the system auto-skips.
 
-![](../.gitbook/assets/telegram-cloud-document-5-6136548607081321976.jpg)
+![](/.gitbook/assets/telegram-cloud-document-5-6136548607081321976.jpg)
 
 #### 6. Review and Confirm Order
 

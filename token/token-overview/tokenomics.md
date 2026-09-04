@@ -34,7 +34,7 @@ More details provide in this sheet: [Tokenomic](https://docs.google.com/spreadsh
 | Liquidity               | 100%                    | 100% at TGE, 0 months cliff; 0 months linear release  |
 | **Total Unlock at TGE** | **17.5%**               |                                                       |
 
-![](../../.gitbook/assets/image (77).png)
+![](/.gitbook/assets/image%20%2877%29.png)
 
 **Public Round (10%)**
 
