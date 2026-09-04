@@ -103,9 +103,8 @@
                                           "pages":  [
                                                         "holdstation-dex-aggregator/what-is-holdstation-dex",
                                                         "holdstation-dex-aggregator/how-to-integrate",
-                                                        "holdstation-dex-aggregator/liquidity-sources",
-                                                        "holdstation-dex-aggregator/fee-structures"
-                                                    ]
+                                                        "holdstation-dex-aggregator/liquidity-sources"
+                                                      ]
                                       },
                                       {
                                           "group":  "Holdstation on World Chain",
