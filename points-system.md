@@ -110,7 +110,7 @@ Users with referrals meeting the following thresholds receive a multiplier on th
 ## Launchpad Eligibility & Allocation
 
 * Minimum Threshold: You need at least 30 Points to participate in launchpad events.
-* This matches the minimum for stakers with 100 to <1,000 HOLD, who earn 1 Point daily (1 × 30 days = 30 Points).
+* This matches the minimum for stakers with 100 to &lt;1,000 HOLD, who earn 1 Point daily (1 × 30 days = 30 Points).
 
 Allocation Formula: Your allocation in the token sale is proportional to your points:
 
@@ -177,7 +177,7 @@ Allocation Formula: Your allocation in the token sale is proportional to your po
 
 Calculation:
 
-* Balance Points: Based on staked HOLD (e.g., ≥100 HOLD <1,000 = 1 Point, ≥20,000 HOLD = 5 Points).
+* Balance Points: Based on staked HOLD (e.g., ≥100 HOLD &lt;1,000 = 1 Point, ≥20,000 HOLD = 5 Points).
 * Volume Points:
 * Holdstation Wallet Swaps: Starts at $10 volume = 1 Point, doubles per tier (e.g., $80 = 4 Points); whitelisted tokens get 2x multiplier.
 * beFuture Trading: Starts at $100 effective volume = 1 Point, doubles per tier (e.g., $1,000 = 4 Points); includes leverage.
