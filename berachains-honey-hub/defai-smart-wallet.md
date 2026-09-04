@@ -1,4 +1,7 @@
-# 💳 DeFAI Smart Wallet
+---
+title: "💳 DeFAI Smart Wallet"
+sidebarTitle: "💳 DeFAI Smart Wallet"
+---
 
 ![](../.gitbook/assets/0602_Exclusive Features on Berachain.png)
 

@@ -1,4 +1,7 @@
-# 👷 DAO Structure
+---
+title: "👷 DAO Structure"
+sidebarTitle: "👷 DAO Structure"
+---
 
 As a community-driven platform, we value the contribution of our early adopters and supporters. Therefore, we are excited to announce our airdrop program for early contributors, including affiliates and users, who play a crucial role in building and promoting our platform.
 

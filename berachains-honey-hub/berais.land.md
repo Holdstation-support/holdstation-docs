@@ -1,4 +1,7 @@
-# 🟡 berAIs.land
+---
+title: "🟡 berAIs.land"
+sidebarTitle: "🟡 berAIs.land"
+---
 
 ![](../.gitbook/assets/7 (2) (2).png)
 

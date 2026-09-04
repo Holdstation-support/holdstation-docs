@@ -1,4 +1,7 @@
-# ❓ Why Berachain
+---
+title: "❓ Why Berachain"
+sidebarTitle: "❓ Why Berachain"
+---
 
 ![](../.gitbook/assets/Twitter_Banner_Bera (2).jpg)
 

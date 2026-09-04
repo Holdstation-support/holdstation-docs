@@ -1,10 +1,14 @@
 ---
+title: "💳 Vault Credit"
+sidebarTitle: "💳 Vault Credit"
+---
+---
 description: >-
   This program has now ended, however, users can still earn real-yield rewards
   by staking USDC / HOLD
 ---
 
-# 💳 Vault Credit
+
 
 > **Info**
 >

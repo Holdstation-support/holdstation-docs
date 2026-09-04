@@ -1,4 +1,7 @@
-# 👉 How to be qualified?
+---
+title: "👉 How to be qualified?"
+sidebarTitle: "👉 How to be qualified?"
+---
 
 **Q: How do I qualify for the drops?** \
 \

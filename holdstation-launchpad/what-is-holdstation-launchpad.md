@@ -1,6 +1,9 @@
-# 🚀 What is Holdstation Launchpad?
+---
+title: "🚀 What is Holdstation Launchpad?"
+sidebarTitle: "🚀 What is Holdstation Launchpad?"
+---
 
-![](../.gitbook/assets/Screenshot 2025-08-25 at 11.07.10.png)
+![](/.gitbook/assets/Screenshot%202025-08-25%20at%2011.07.10.png)
 
 **Holdstation Launchpad** is the multichain starter, purpose-built to accelerate the most innovative DeFi and AI projects in the ecosystem. With deep integration into Berachain’s **Proof of Liquidity (PoL)** model, BeraStarter aligns incentives between builders, early adopters, and long-term holders—driving liquidity, attention, and sustained growth across the chain.
 

@@ -19,9 +19,8 @@
                                                         {
                                                             "group":  "Introduction",
                                                             "pages":  [
-                                                                          "overview/introduction/README",
+                                                                          "overview/introduction/introduction",
                                                                           "overview/introduction/achievements",
-                                                                          "overview/introduction/future-direction",
                                                                           "overview/introduction/product-suite",
                                                                           "overview/introduction/chain-support",
                                                                           "overview/introduction/team",
@@ -80,6 +79,13 @@
                                                     ]
                                       },
                                       {
+                                          "group":  "Holdstation Launchpad",
+                                          "pages":  [
+                                                        "holdstation-launchpad/what-is-holdstation-launchpad",
+                                                        "holdstation-launchpad/how-does-the-fair-subscription-model-work"
+                                                    ]
+                                      },
+                                      {
                                           "group":  "Holdstation Pay",
                                           "pages":  [
                                                         "holdstation-pay/what-is-holdstation-pay",
@@ -115,6 +121,21 @@
                                                     ]
                                       },
                                       {
+                                          "group":  "Berachain HONEY Hub",
+                                          "pages":  [
+                                                        "berachains-honey-hub/why-berachain",
+                                                        "berachains-honey-hub/berais.land",
+                                                        "berachains-honey-hub/defai-smart-wallet",
+                                                        {
+                                                            "group":  "Holdstation Foundation",
+                                                            "pages":  [
+                                                                          "berachains-honey-hub/holdstation-foundation/dao-structure",
+                                                                          "berachains-honey-hub/holdstation-foundation/how-to-be-qualified"
+                                                                      ]
+                                                        }
+                                                    ]
+                                      },
+                                      {
                                           "group":  "Holdstation on Solana",
                                           "pages":  [
                                                         "holdstation-on-solana/why-solana"
@@ -126,11 +147,16 @@
                                                         {
                                                             "group":  "Token Overview",
                                                             "pages":  [
-                                                                          "token/token-overview/README",
+                                                                          "token/token-overview/token-overview",
                                                                           "token/token-overview/tokenomics",
-                                                                          "token/token-overview/token-utility",
-                                                                          "token/token-overview/token-migration",
-                                                                          "token/token-overview/sustainable-expansion"
+                                                                          "token/token-overview/token-utility"
+                                                                      ]
+                                                        },
+                                                        {
+                                                            "group":  "Early Adopter Program (Ended)",
+                                                            "pages":  [
+                                                                          "token/early-adopter-program-ended/loyalty-program",
+                                                                          "token/early-adopter-program-ended/vault-credit"
                                                                       ]
                                                         },
                                                         "token/contract-address",
@@ -149,7 +175,7 @@
                                                         {
                                                             "group":  "Holdstation/Worldchain-SDK",
                                                             "pages":  [
-                                                                          "integration/holdstation-worldchain-sdk/README",
+                                                                          "integration/holdstation-worldchain-sdk/holdstation-worldchain-sdk",
                                                                           "integration/holdstation-worldchain-sdk/tokens-and-balances",
                                                                           "integration/holdstation-worldchain-sdk/send",
                                                                           "integration/holdstation-worldchain-sdk/swap",

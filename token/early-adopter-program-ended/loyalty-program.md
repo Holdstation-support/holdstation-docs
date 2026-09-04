@@ -1,10 +1,14 @@
 ---
+title: "💧 Loyalty Program"
+sidebarTitle: "💧 Loyalty Program"
+---
+---
 description: >-
   This program has now ended, however, users can still receive GOLD rewards for
   swap and trade on the Holdstation wallet.
 ---
 
-# 💧 Loyalty Program
+
 
 Holdstation is committed to rewarding early adopters, traders, and stakers who join us on this exciting journey. One of the ways we are doing this is through our Loyalty Programs.
 
